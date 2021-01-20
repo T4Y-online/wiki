@@ -1,1 +1,1 @@
-# ~This is the wiki~
+# *This is the wiki*
